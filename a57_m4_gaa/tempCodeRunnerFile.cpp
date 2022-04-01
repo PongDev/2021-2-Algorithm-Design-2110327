@@ -1,0 +1,2 @@
+
+        printf("%c", findAnswer(c));
